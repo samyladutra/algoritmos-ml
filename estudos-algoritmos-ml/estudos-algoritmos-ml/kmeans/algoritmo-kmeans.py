@@ -56,13 +56,6 @@ dataset_final = dataset_filtrado.select(range(1, len(dataset_filtrado)))
 df = dataset_final.to_pandas()
 X = df[['Quantity', 'Discount']].values
 
-# # Visualização dos dados sem tratamento kmeans
-# plt.scatter(X[:, 0], X[:, 1], s=50, c='gray')
-# plt.xlabel('Quantity')
-# plt.ylabel('Discount')
-# plt.title('Dados Brutos')
-# plt.show()
-
 k = 3  # Número de clusters
 centroids, cluster_labels = kmeans(X, k)
  
