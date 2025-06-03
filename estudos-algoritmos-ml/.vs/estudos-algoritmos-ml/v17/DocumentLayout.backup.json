@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\algoritmos-ml\\estudos-algoritmos-ml\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F217F2A0-2D2C-426D-A9AA-24DD51A752E9}|estudos-algoritmos-ml\\estudos-algoritmos-ml.pyproj|C:\\workspace\\algoritmos-ml\\estudos-algoritmos-ml\\estudos-algoritmos-ml\\estudos_algoritmos_ml.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F217F2A0-2D2C-426D-A9AA-24DD51A752E9}|estudos-algoritmos-ml\\estudos-algoritmos-ml.pyproj|solutionrelative:estudos-algoritmos-ml\\estudos_algoritmos_ml.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "estudos_algoritmos_ml.py",
+              "DocumentMoniker": "C:\\workspace\\algoritmos-ml\\estudos-algoritmos-ml\\estudos-algoritmos-ml\\estudos_algoritmos_ml.py",
+              "RelativeDocumentMoniker": "estudos-algoritmos-ml\\estudos_algoritmos_ml.py",
+              "ToolTip": "C:\\workspace\\algoritmos-ml\\estudos-algoritmos-ml\\estudos-algoritmos-ml\\estudos_algoritmos_ml.py",
+              "RelativeToolTip": "estudos-algoritmos-ml\\estudos_algoritmos_ml.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-02T11:55:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
